@@ -1,0 +1,1 @@
+print(hex(int(str(input()), 8))[2:])
